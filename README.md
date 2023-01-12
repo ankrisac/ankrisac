@@ -4,8 +4,8 @@ Hello there!
 I'm a second year mathematics student at the University of Warwick
 
 ### Interests
-- Low-level systems programming in C, C++, Rust
-- GPU programming in OpenGL & WebGPU.
+- Low-level systems programming
+- General purpose computing on GPUs
 - Type theory and compilers 
 - Game design and programming
 
