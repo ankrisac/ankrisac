@@ -7,6 +7,7 @@ I'm a second year mathematics student at the University of Warwick
 - Low-level systems programming in C, C++, Rust
 - GPU programming in OpenGL & WebGPU.
 - Type theory and compilers 
+- Game design and programming
 
 Currently learning Vulkan, Prolog, Typescript
 
