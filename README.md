@@ -1,4 +1,4 @@
-Hello there!
+Hello!
 ---
 
 I'm a second year mathematics student at the University of Warwick
